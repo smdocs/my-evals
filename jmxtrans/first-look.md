@@ -42,4 +42,8 @@ Here is the basic config file, I used to monitor Cassandra
 }
 
 ```
-   
+
+##### Next Steps
+
+- Try collecting the output and save it in ElasticSearch
+- Try more complex queries to monitor a large number of JVMs
