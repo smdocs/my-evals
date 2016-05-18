@@ -9,4 +9,5 @@ All software evaluations
 ##### Next 
 3. [StreamSets](https://streamsets.com/)
 4. [Weave- Container management software](https://www.weave.works/)
+5. [Creating composite docker containers](http://blog.endpoint.com/2016/02/creating-composite-docker-containers.html)
 
