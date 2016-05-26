@@ -1,4 +1,4 @@
-#FUSE - User space file system framework.
+#FUSE - Userspace File System Framework
 
 #### What is FUSE?
 
