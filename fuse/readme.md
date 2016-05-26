@@ -10,5 +10,5 @@ filesystems.  A good example is sshfs: a secure network filesystem using the sft
 
 ###### Golang Implementation of FUSE
 
-- [Bazil](https://bazil.org/talks/2013-06-10-la-gophers/#10)
-- [Bazil](http://bazil.org)
+- [Bazil Slides](https://bazil.org/talks/2013-06-10-la-gophers/#10)
+- [Bazil Web site](http://bazil.org)
