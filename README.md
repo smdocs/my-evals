@@ -12,4 +12,5 @@ All software evaluations
 5. [Creating composite docker containers](http://blog.endpoint.com/2016/02/creating-composite-docker-containers.html)
 6. [Fabric8](https://fabric8.io/)
 7. [Kubernetes](http://kubernetes.io/)
-
+8. [Confluent](https://www.confluent.io/)
+9. [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue)
