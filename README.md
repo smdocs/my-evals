@@ -14,3 +14,4 @@ All software evaluations
 7. [Kubernetes](http://kubernetes.io/)
 8. [Confluent](https://www.confluent.io/)
 9. [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue)
+10. [NATS](http://nats.io/)
