@@ -16,3 +16,5 @@ All software evaluations
 9. [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue)
 10. [NATS](http://nats.io/)
 11. [Meshbird](https://github.com/meshbird/meshbird)
+12. [Rook]()
+13. [Badger Key Value Store](https://github.com/dgraph-io/badger)
